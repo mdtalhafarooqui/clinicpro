@@ -1,4 +1,4 @@
-ClinicPro - Full Replacement Project (Windows/XAMPP)
+ClinicPro
 
 1) Extract this folder to:
    C:\xampp\htdocs\clinic
@@ -18,3 +18,5 @@ Included assets:
 - project_topics.pdf (if provided)
 
 If your MySQL root has a password, edit config.php and set $pass variable.
+
+looking forward to upgrade front end and fix small imperfection
