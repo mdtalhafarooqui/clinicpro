@@ -153,5 +153,5 @@ You may modify and use it freely for academic purposes.
 ## 👤 **Author**
 
 **Mohammed Talha Farooqui**
-GitHub: [https://github.com/mdtalhafarooqui](https://github.com/mdtalhafarooqui)
+GitHub: [https://github.com/mdtalhafarooqui](https://github.com/mdtalhafarooqui).
 
