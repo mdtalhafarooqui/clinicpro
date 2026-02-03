@@ -68,11 +68,7 @@ include 'config.php';
 </main>
 <footer class="text-center py-4 small text-muted">
 <div class="container">
-    Developed By IT Dept @VJIT<br>
-    BY, Mohammed Talha Farooqui - 25915A1214,
-	N.Prem Kumar - 25915A1216,
-	P.Lakshmi Charan - 25915A1217,
-	Chepuri Rahul - 24911A12E5
+    ©Copyright and Developed By IT Dept @VJIT Mohammed Talha Farooqui
 </div>
 </footer>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
