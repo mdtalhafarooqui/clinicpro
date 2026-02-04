@@ -154,4 +154,3 @@ You may modify and use it freely for academic purposes.
 
 **Mohammed Talha Farooqui**
 GitHub: [https://github.com/mdtalhafarooqui](https://github.com/mdtalhafarooqui).
-
