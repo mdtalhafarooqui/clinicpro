@@ -1,10 +1,10 @@
 # ClinicPro 🏥
 
-ClinicPro is a modern clinic appointment management system designed to simplify the process of booking and managing appointments. The system efficiently handles doctors, patients, and schedules through a clean and user-friendly web interface, reducing manual work and improving clinic workflow.
+ClinicPro is a modern clinic appointment management system designed to simplify booking and managing appointments. It efficiently handles doctors, patients, and schedules through a clean and user-friendly web interface, reducing manual work and improving clinic workflow.
 
 ---
 
-## ✨ Highlights
+## ✨ Features
 
 - Easy appointment booking  
 - Doctor and patient management  
@@ -31,7 +31,7 @@ ClinicPro is built using CRUD-based web application principles. It demonstrates 
 
 ---
 
-## 🚀 How to Run
+## 🚀 Getting Started
 
 1. Install **XAMPP** and start **Apache** & **MySQL**  
 2. Place the project folder inside the `htdocs` directory  
@@ -43,7 +43,6 @@ ClinicPro is built using CRUD-based web application principles. It demonstrates 
 
 ## 📂 Project Structure
 
-```
 clinicpro/
 │── assets/
 │   ├── images/
@@ -62,7 +61,7 @@ clinicpro/
 
 ## 🎓 Academic Use
 
-- Web Development Mini Project  
+- Ideal for web development mini projects  
 - Demonstrates PHP–MySQL integration  
 - Covers full CRUD operations  
 - Suitable for labs, viva, and academic submissions  
@@ -84,4 +83,4 @@ clinicpro/
 **Mohammed Talha Farooqui**  
 VJIT  
 
-⭐ If you like this project, consider starring the repository!
+⭐ If you find this project helpful, consider giving it a star!
